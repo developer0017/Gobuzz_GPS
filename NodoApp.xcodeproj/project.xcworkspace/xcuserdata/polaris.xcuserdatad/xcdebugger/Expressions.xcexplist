@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[SignUpView textFieldDidEndEditing:]:SignUpView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self NSStringIsValidEmail:emailField.text]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SignUp2View registerUser:withImage:]:SignUp2View.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[GlobalVariables sharedInstance].verificationCode">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__25-[SignInView loginUser::]_block_invoke_2:SignInView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[GlobalVariables sharedInstance].currentUser">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__45-[EmailVerificationView onClickVerifyButton:]_block_invoke:EmailVerificationView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[GlobalVariables sharedInstance].currentUser">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[NotificationListView onClickNotification:]:NotificationListView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "sender.tag">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

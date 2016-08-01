@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[HomeView initialiseViewWithController:]:HomeView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "kCLLocationAccuracyNearestTenMeters">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SocialNetwork sendRequest:withImage:]:SocialNetwork.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[NSString stringWithFormat:@&quot;Content-Disposition: form-data; name=\&quot;%@\&quot;\r\n\r\n&quot;, key]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HistoryDetailView initialiseViewWithController:]:HistoryDetailView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[GlobalVariables sharedInstance].historyData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HomeView showUserInfo:]:HomeView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[GlobalVariables sharedInstance].currentUser">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SignUp2View textFieldShouldReturn:]:SignUp2View.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "textField.tag">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__48-[SignInViewController responseReceived:method:]_block_invoke:SignInViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[GlobalVariables sharedInstance].currentUser">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[AppDelegate locationManager:didUpdateLocations:]:AppDelegate.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentLoc.coordinate.latitude">
+            </PersistentString>
+            <PersistentString
+               value = "currentLoc.verticalAccuracy">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SignUpView onClickSignupButton:]:SignUpView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentLoc.coordinate.latitude">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[PaymentViewController productsRequest:didReceiveResponse:]:PaymentViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "response.products">
+            </PersistentString>
+            <PersistentString
+               value = "response.invalidProductIdentifiers">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ProfileView initialiseViewWithController:]:ProfileView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[GlobalVariables sharedInstance].tempUserInfo1">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:]:AppDelegate.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[[NSString alloc] initWithData:deviceToken encoding:NSUTF8StringEncoding]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
